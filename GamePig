@@ -1,6 +1,4 @@
-package assignment1CISC124;
-// Mudra Patel
-// student #: 20117291 netId: 17mjp9
+package GamePig;
 // In this game, a human player will be paired with a computer player.
 // Both players will be rolling two dies until one of them reaches a total score of 100.
 
